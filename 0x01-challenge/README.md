@@ -4,11 +4,6 @@
 Debugging
 
 * By: Guillaume, CTO at Holberton School
-* Weight: 1
-* Project will start Jan 31, 2024 4:00 AM, must end by Feb 14, 2024 4:00 AM
-* Checker was released at Feb 3, 2024 4:00 PM
-* **Manual QA review must be done** (request it when you are done with the project)
-* An auto review will be launched at the deadline
 
 Background Context
 ------------------
