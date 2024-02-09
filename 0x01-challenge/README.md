@@ -17,7 +17,7 @@ Background Context
 
 Sometime you will know the language, sometime not.
 
-Please download the repository [0x01-Fix\_My\_Code_Challenge](/rltoken/H1D38vm3qtejhlFTuoxUrA "0x01-Fix_My_Code_Challenge") and use it as initial files for all solutions.
+Please download the repository [[0x01-Fix\_My\_Code_Challenge](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge/tree/master/status_server/)](/rltoken/H1D38vm3qtejhlFTuoxUrA "0x01-Fix_My_Code_Challenge") and use it as initial files for all solutions.
 
 You should not recode everything, just fix it!
 
